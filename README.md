@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Reshma-pr
 - 👀 I’m interested in learning modern technologies 
-- 🌱 I’m currently learning android studio,javascript,java
+- 🌱 I’m currently learning android studio,javascript,java,Flutter,Kotlin
 - 💞️ I’m looking to collaborate on App Development
 - 📫 How to reach me :
 Instagram - II_resha_II
