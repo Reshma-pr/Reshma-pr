@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Reshma-pr
 - 👀 I’m exploring Cybersecurity
 - I'm into Flutter App Development
-- 💞️ I’m looking to collaborate on CTF's
 - 📫 How to reach me :
 Instagram - II_resha_II
 Gmail - resha.dev2001@gmail.com
